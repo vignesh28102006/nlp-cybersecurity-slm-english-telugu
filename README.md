@@ -1,7 +1,7 @@
-# Cybersecurity Glossary Translation Using a Small Language Model
+# NLP Assignment: Cybersecurity Glossary Translation Using a Small Language Model
 
 ## Objective
-The objective of this project is to develop an efficient, lightweight, and offline-capable Neural Machine Translation pipeline that extracts English cybersecurity terminology and definitions from a PDF document (`English_Cybersecurity_Glossary.pdf`) and translates them into Telugu using a verified Small Language Model (SLM) / compact Sequence-to-Sequence model.
+The objective of this Natural Language Processing (NLP) assignment project is to develop an efficient, lightweight, and offline-capable Neural Machine Translation pipeline that extracts English cybersecurity terminology and definitions from a PDF document (`English_Cybersecurity_Glossary.pdf`) and translates them into Telugu using a verified Small Language Model (SLM) / compact Sequence-to-Sequence model.
 
 ---
 
@@ -121,7 +121,8 @@ The translation architecture follows a streamlined five-stage pipeline:
 
 1. Clone or navigate to the project directory:
 ```bash
-cd cybersecurity_slm_translation
+git clone https://github.com/vignesh28102006/nlp-cybersecurity-slm-english-telugu.git
+cd nlp-cybersecurity-slm-english-telugu
 ```
 
 2. Install the required dependencies:
@@ -151,6 +152,7 @@ jupyter notebook Cybersecurity_SLM_English_Telugu.ipynb
 1. `cybersecurity_glossary_english_telugu.csv`: Complete structured table containing Columns `[ID, English_Term, Telugu_Term_Raw, Telugu_Term_Clean, English_Definition, Telugu_Definition_Raw, Telugu_Definition_Clean]`.
 2. `translated_glossary.txt`: Formatted text report containing side-by-side English and Telugu terms and definitions.
 3. `Cybersecurity_SLM_English_Telugu.ipynb`: Fully executed Jupyter Notebook with all 15 cells containing outputs, tables, and timings.
+4. `screenshot.png`: Clean high-resolution output preview table.
 
 ---
 
