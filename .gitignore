@@ -1,0 +1,40 @@
+# Cache and Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Model weights and caches (Do NOT commit large binaries)
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.onnx
+.cache/
+models/
+
+# Logs and IDE
+*.log
+.vscode/
+.idea/
+.ipynb_checkpoints/

@@ -1,0 +1,285 @@
+================================================================================
+CYBERSECURITY GLOSSARY — ENGLISH TO TELUGU TRANSLATION
+Model: Helsinki-NLP/opus-mt-en-dra (~76.89M parameters MarianMT SLM)
+================================================================================
+
+[01] Access Control -> యాక్సెస్ నియంత్రణ
+    Raw Model Output: యాక్సెస్ నియంత్రణ
+    English Def     : The process of granting or denying access to information, systems, services, or resources.
+    Telugu Def      : సమాచారాన్ని, వ్యవస్థలను, సేవలను లేదా వనరులను అందించడం లేదా నిరాకరించడం.
+
+[02] Authentication -> ధృవీకరణ
+    Raw Model Output: ధృవీకరణ
+    English Def     : The process of verifying the identity of a user, process, or device before allowing access.
+    Telugu Def      : యాక్సెస్‌ను అనుమతించుటకు ముందుగా వినియోగదారి, ప్రక్రియ, లేదా పరికరము గుర్తించుటను నిర్ధారణచేస్తుంది.
+
+[03] Authorization -> ధృవీకరణ
+    Raw Model Output: (z) ధృవీకరణ
+    English Def     : The process of determining whether an authenticated user or system is allowed to access a resource.
+    Telugu Def      : ధృవీకరించిన వినియోగదారి లేదా వ్యవస్థ వాడుకలో ఉన్నారా అని నిర్ధారించుటకు అనుమతినిస్తుంది.
+
+[04] Availability -> ఎనలాగ్యులేషన్
+    Raw Model Output: ఎనలాగ్యులేషన్
+    English Def     : The condition in which authorized users can access data, information, and systems when needed.
+    Telugu Def      : అధికారంలో ఉన్న వినియోగదారులకు అవసరమైనప్పుడు సమాచారాన్ని, సమాచారం, వ్యవస్థలను సంప్రదించే పరిస్థితి ఉంటుంది.
+
+[05] Confidentiality -> ఎన్‌క్లోబిలిటి
+    Raw Model Output: ఎన్‌క్లోబిలిటి
+    English Def     : The property of keeping information from being disclosed to unauthorized people or systems.
+    Telugu Def      : సమాచారాన్ని వెల్లడి చేయని ప్రజలకు లేదా వ్యవస్థలకు రహస్యంగా ఉంచడం ద్వారా ఆస్వాదితాన్ని కాపాడుకోవడమనే లక్షణం.
+
+[06] Integrity -> యథార్ధత
+    Raw Model Output: యథార్ధత
+    English Def     : The property that ensures data has not been altered in an unauthorized manner.
+    Telugu Def      : దత్తాంశాన్ని నిశ్చయపరిచే ఆస్తులు నిర్దుష్టంగా మార్చబడలేదు.
+
+[07] Non-repudiation -> రిప్రెషన్ కాని
+    Raw Model Output: రిప్రెషన్ కాని
+    English Def     : The ability to provide evidence that prevents a party from denying a valid action or transaction.
+    Telugu Def      : ఉదాహరణకు, ఒక పార్టీ సరైన చర్యను లేదా ఒప్పందాన్ని నిరాకరించకుండా అడ్డుకునే రుజువులను ఇవ్వగల సామర్థ్యం.
+
+[08] Cybersecurity -> సైప్రస్ సామర్ధ్యం
+    Raw Model Output: సైప్రస్ సామర్ధ్యం
+    English Def     : The protection of electronic information, communication systems, and the information they contain from damage or unauthorized use.
+    Telugu Def      : ఎలక్ట్రానిక్‌ సమాచారం, సంభాషణా వ్యవస్థల, వాటిలోని సమాచారం వల్ల నష్టం లేదా నిరపాయకరమైన ఉపయోగం నుండి కాపాడబడుతుంది.
+
+[09] Cyber Attack -> సైప్రస్‌ దాడి
+    Raw Model Output: సైప్రస్‌ దాడి
+    English Def     : An attempt to damage, disrupt, access, or compromise a computer system, network, or data.
+    Telugu Def      : కంప్యూటర్‌ను, నెట్‌వర్క్‌ని, డాటాను నాశనం చేయడానికి, అంతరాయం చేయడానికి లేదా రాజీ పడుకోవడానికి ప్రయత్నించడం.
+
+[10] Data Breach -> దత్తాంశం బ్రాకెక్
+    Raw Model Output: దత్తాంశం బ్రాకెక్Name
+    English Def     : An incident in which sensitive, protected, or confidential information is accessed, copied, disclosed, or stolen without authorization.
+    Telugu Def      : అలాంటి సమాచారం అందుబాటులో ఉంటే, దాపరికంలేకుండా దొంగతనం చేసినట్లే అవుతుంది.
+
+[11] Encryption -> ఎన్‌కోడింగ్
+    Raw Model Output: ఎన్‌కోడింగ్
+    English Def     : The transformation of plaintext into ciphertext so that the original information is protected from unauthorized access.
+    Telugu Def      : క్యాప్‌ రికార్డింగుల ద్వారా ఆ మూల సమాచారం నియంత్రితంగా కాపాడబడుతుంది.
+
+[12] Decryption -> ఎన్‌కోడింగ్
+    Raw Model Output: ఎన్‌కోడింగ్ (scription)
+    English Def     : The process of converting encrypted ciphertext back into its original readable form.
+    Telugu Def      : ఎన్‌క్లోజ్డు వచనమును దాని ప్రాధమిక చదువుట ఫార్మేట్‌గా మార్చుట యొక్క ప్రక్రియ.
+
+[13] Cryptography -> ఆర్పిటోగ్రేమ్
+    Raw Model Output: ఆర్పిటోగ్రేమ్Name
+    English Def     : The study and application of techniques for protecting information through mathematical methods.
+    Telugu Def      : గణిత శాస్త్ర పద్ధతుల ద్వారా సమాచారాన్ని కాపాడే పద్ధతులను అధ్యయనం చేయడం, వాటి అన్వయింపు.
+
+[14] Cryptographic Key -> ముద్రణా కళాఖండం కీ
+    Raw Model Output: ముద్రణా కళాఖండం కీ
+    English Def     : A value used by a cryptographic algorithm to encrypt, decrypt, or otherwise protect information.
+    Telugu Def      : ఎన్క్రిప్షన్, డీకోడ్ లేదా ఇతర విధాలుగా సమాచారాన్ని కాపాడుటకు వుపయోగించబడే విలువ
+
+[15] Digital Signature -> డిజిటల్ సంతకం
+    Raw Model Output: డిజిటల్ సంతకంName
+    English Def     : A cryptographic mechanism used to verify the authenticity and integrity of a digital message or document.
+    Telugu Def      : డిజిటల్‌ సందేశం లేదా పత్రం యొక్క వాస్తవాన్ని, యథార్థతను పరీక్షించడానికి అప్రమత్తతతో కూడిన గణిత శాస్త్ర వ్యవస్థ ఉపయోగించబడింది.
+
+[16] Hash Function -> హాష్ ప్రమేయం
+    Raw Model Output: హాష్ ప్రమేయం
+    English Def     : A mathematical function that converts input data into a fixed-length value called a hash.
+    Telugu Def      : ఒక గణిత ప్రమేయం అది ఇన్‌పుట్ డాటాను ఒక అని పిలువబడే నిర్ధిష్ట ఆధారిత విలువకు బదిలీ చేస్తుంది
+
+[17] Firewall -> ఫైర్వాల్
+    Raw Model Output: ఫైర్వాల్Comment
+    English Def     : A device or program that controls network traffic to or from a system according to security rules.
+    Telugu Def      : భద్రతా నియమాల ప్రకారం నెట్‌వర్క్‌ను ఒక పరికరం లేదా కార్యక్రమం నియంత్రిస్తుంది.
+
+[18] Intrusion Detection System -> ఇంటర్‌పోలేటెడ్ గుర్తింపు వ్యవస్థ
+    Raw Model Output: ఇంటర్‌పోలేటెడ్ గుర్తింపు వ్యవస్థ
+    English Def     : A system that monitors network or system activity to detect possible unauthorized or malicious activity.
+    Telugu Def      : నిష్పక్షపాతంగా లేదా దురుద్దేశంగా జరుగుతున్న కార్యకలాపాలను గుర్తించడానికి నెట్‌వర్క్‌ను లేదా వ్యవస్థ కార్యకలాపాల్ని మానిటర్‌ చేసే వ్యవస్థ.
+
+[19] Intrusion Prevention System -> ఇంట్రెంట్ ఎగ్జిక్యూటివ్ సిస్టమ్
+    Raw Model Output: ఇంట్రెంట్ ఎగ్జిక్యూటివ్ సిస్టమ్Name
+    English Def     : A system that detects malicious activity and can take action to block or prevent it.
+    Telugu Def      : ఆ ప్రక్రియను ఆపడానికి, ఆపేందుకు చర్య తీసుకోవచ్చు.
+
+[20] Virtual Private Network -> వర్చ్యువల్ ಖಾಸಗಿ నెట్వర్‍క్
+    Raw Model Output: వర్చ్యువల్ ಖಾಸಗಿ నెట్వర్‍క్Name
+    English Def     : A technology that creates a protected connection over a public or untrusted network.
+    Telugu Def      : టెక్నాలజీ, వెబ్‌ నెట్‌వర్క్‌ల మీద రక్షణనిచ్చే సాంకేతిక విజ్ఞానం.
+
+[21] Malware -> మలభ్రమణ
+    Raw Model Output: మలభ్రమణQuery
+    English Def     : Software or firmware designed or used to perform unauthorized actions that can harm a system or compromise its security.
+    Telugu Def      : కొన్ని దేశాల్లో, ఒక దేశంలోని సంస్థను సంప్రదించడం చాలా కష్టంగా ఉంటుంది.
+
+[22] Virus -> నారింజ ఎరుపు
+    Raw Model Output: నారింజ ఎరుపుcolor
+    English Def     : Malicious software that can attach itself to other programs or files and replicate when the infected host is executed.
+    Telugu Def      : ఆక్యుపంక్చర్‌ను ఉపయోగించండి.
+
+[23] Worm -> బూమ్
+    Raw Model Output: బూమ్Name
+    English Def     : Malicious software that can self-propagate across systems or networks without requiring a host program.
+    Telugu Def      : మీ సాఫ్ట్‍వేర్‌ను మీ ఆపరేటింగ్‌ ప్రోగ్రామ్‌ అవసరం లేకుండా సిస్టమ్లు లేదా నెట్‌వర్క్‌లను స్వీయంగా మార్చగలదు.
+
+[24] Trojan Horse -> రామోత్‌
+    Raw Model Output: రామోత్‌
+    English Def     : Malicious software that appears legitimate or useful but performs unauthorized or harmful actions.
+    Telugu Def      : అది సరైనదేనా అది ఉపయోగకరమైనదే.
+
+[25] Ransomware -> విమోచనక్రయధన బృందం
+    Raw Model Output: విమోచనక్రయధన బృందం
+    English Def     : Malware that restricts access to data or systems and typically demands payment to restore access.
+    Telugu Def      : కొంతమందైతే, కొంత డబ్బును కూడా సంపాదించాల్సి ఉంటుంది.
+
+[26] Spyware -> తృణీకారి
+    Raw Model Output: తృణీకారిQuery
+    English Def     : Software designed to secretly collect information about users, systems, or activities.
+    Telugu Def      : మీ వెబ్‌సైట్‌లో ఉన్న సమాచారం రహస్యంగా, వినియోగదారులకు, వ్యవస్థలకు, కార్యకలాపాలకు సంబంధించిన సమాచారం సేకరించబడేలా సాఫ్ట్‌వేర్‌ రూపొందించబడింది.
+
+[27] Phishing -> ఫిష్సింగ్
+    Raw Model Output: ఫిష్సింగ్
+    English Def     : A social engineering technique that uses deceptive messages or websites to trick people into revealing sensitive information.
+    Telugu Def      : తప్పుడు సమాచారంతో లేదా వెబ్‌సైట్‌లతో ప్రజల్ని మోసం చేసే సోషల్‌ ఇంజనీరింగ్‌ టెక్నాలజీ.
+
+[28] Spear Phishing -> స్పెయిర్ ఫిష్
+    Raw Model Output: స్పెయిర్ ఫిష్
+    English Def     : A targeted phishing attack designed for a specific person, organization, or group.
+    Telugu Def      : ఒక ప్రత్యేక వ్యక్తి కోసం, సంస్థ కోసం లేదా గుంపు కోసం రూపొందించబడిన దోపిడీ దాడి.
+
+[29] Brute Force Attack -> బ్రాట్‌కార్ట్‌ ఎగ్జిక్యూటివ్‌ దాడి
+    Raw Model Output: బ్రాట్‌కార్ట్‌ ఎగ్జిక్యూటివ్‌ దాడి
+    English Def     : An attack that attempts many possible passwords or keys until the correct one is found.
+    Telugu Def      : చాలావరకు సరైన పాస్ వర్డ్ లేదా కీలు కనుగొనబడేవరకు ప్రయత్నించే దాడి.
+
+[30] Denial of Service -> ఎల్లవేళలా సేవ
+    Raw Model Output: ఎల్లవేళలా సేవ
+    English Def     : An attack that attempts to make a service, system, or network unavailable to intended users.
+    Telugu Def      : ఒక సేవ, వ్యవస్థ, లేదా నెట్వర్క్‌ అభ్యర్ధంగా వినియోగదారుని కోసం అందుబాటులోనిని దాడి.
+
+[31] Distributed Denial of Service -> పరిచర్య రిజిస్ట్రేషన్‌
+    Raw Model Output: పరిచర్య రిజిస్ట్రేషన్‌
+    English Def     : A denial-of-service attack launched from multiple compromised systems or devices.
+    Telugu Def      : చాలా సడలిన వ్యవస్థలు లేదా పరికరాల నుండి ఒక నిరాకరణ కార్యనిర్వహణ ఉద్భవింపబడింది.
+
+[32] Man-in-the-Middle Attack -> దాడులు
+    Raw Model Output: Man-in-Med దాడులు
+    English Def     : An attack in which an attacker secretly intercepts or alters communication between two parties.
+    Telugu Def      : దాడి చేసే వ్యక్తి రహస్యంగా జోక్యం చేసుకుంటాడు లేదా రెండు పార్టీల మధ్య సంభాషణను మార్చుకుంటాడు.
+
+[33] SQL Injection -> ఎస్.క్యు.ఏల్ ప్రవేశము
+    Raw Model Output: ఎస్.క్యు.ఏల్ (SQL) ప్రవేశము
+    English Def     : An attack that inserts malicious SQL statements into an application input to manipulate a database.
+    Telugu Def      : డెటాబేస్ నడుపుటకు సౌలభ్య ప్రకటనలను ఒక అప్లికేషన్ ఇన్‌పుట్‌లో చేర్చే దాడి.
+
+[34] Cross-Site Scripting -> క్రాస్ స్క్రిప్టు
+    Raw Model Output: క్రాస్- స్క్రిప్టు@ item: inlistbox Sort
+    English Def     : An attack in which malicious scripts are injected into web content and executed in another user's browser.
+    Telugu Def      : ద్వేషపూరిత స్క్రిప్టులను వెబ్ సారములో చేర్చి మరొక యూజర్ బ్రౌజర్‌నందు నడుపుతుంది.
+
+[35] Vulnerability -> విల్నేరబుల్
+    Raw Model Output: విల్నేరబుల్
+    English Def     : A weakness in a system, application, process, or configuration that could be exploited by an attacker.
+    Telugu Def      : దాడిచేసే వ్యక్తిచే మోసగించబడగల వ్యవస్థ, కార్యక్రమ, లేదా ఆకృతీకరణలోని బలహీనత.
+
+[36] Exploit -> కొర్నిష్
+    Raw Model Output: కొర్నిష్color
+    English Def     : A technique, code, or method used to take advantage of a vulnerability.
+    Telugu Def      : ఈ పద్ధతిని ఉపయోగించిన వికాస యంత్రం, కోడ్‌ లేదా పథకాన్ని ఉపయోగించారు.
+
+[37] Security Patch -> భద్రత తునక
+    Raw Model Output: భద్రత తునక
+    English Def     : A software update designed to fix security vulnerabilities or weaknesses.
+    Telugu Def      : భద్రతా అననుకూలతలను లేదా బలహీనతలను పరిష్కరించడానికి రూపొందించబడిన సాఫ్ట్‌వేర్‌ నవీకరణ.
+
+[38] Zero-Day Vulnerability -> Vulனர் కారణనిర్ణయం
+    Raw Model Output: Zero- Day Vulனர் కారణనిర్ణయం
+    English Def     : A software or system vulnerability that is unknown to the party responsible for fixing it or has not yet been patched.
+    Telugu Def      : ఒక సాఫ్టువేర్‌ లేదా వ్యవస్థను మార్చడానికి కారణమైన పార్టీకి తెలియని లేదా ఇంకా భాగస్వామ్యం చేయబడలేదు.
+
+[39] Multi-Factor Authentication -> బహుళ ఫాక్టర్ ధృవీకరణ
+    Raw Model Output: బహుళ- ఫాక్టర్ ధృవీకరణ
+    English Def     : An authentication method that requires two or more different types of verification factors.
+    Telugu Def      : రెండు లేక అంతకన్నా విభిన్నమైన కారకాలను అవసరమయ్యే ధృవీకరణ పద్దతి.
+
+[40] Password -> సంకేతపదం
+    Raw Model Output: సంకేతపదం
+    English Def     : A secret sequence of characters used to authenticate a user or protect access to a system.
+    Telugu Def      : వినియోగదారిని నవీకరించుటకు లేదా వ్యవస్థ యాక్సెస్‌చేయుటకు ఉపయోగించబడిన అక్షరముల రహస్య క్రమము.
+
+[41] Biometric Authentication -> బైయ్‌స్టిక్ ధృవీకరణ
+    Raw Model Output: బైయ్‌స్టిక్ ధృవీకరణ
+    English Def     : Authentication based on a person's physical or behavioral characteristics, such as a fingerprint or face.
+    Telugu Def      : ఒక వ్యక్తి యొక్క భౌతిక లేదా ప్రవర్తనల లక్షణాలు ఆధారంగా ధృవీకరణ ఒక వేలిముద్ర లేదా ముఖం.
+
+[42] Least Privilege -> స్వేచ్ఛాచిత్తం
+    Raw Model Output: స్వేచ్ఛాచిత్తం
+    English Def     : A security principle in which users and systems receive only the minimum access necessary to perform their tasks.
+    Telugu Def      : చాలామంది తల్లిదండ్రులు తమ ఉద్యోగాలను వాయిదా వేయాల్సి ఉంటుంది, కానీ వారి కనీస అవసరాలు మాత్రం తగ్గుతాయి.
+
+[43] Security Policy -> భద్రతా విధానము
+    Raw Model Output: భద్రతా విధానము
+    English Def     : A set of rules and guidelines that defines how an organization protects its information and systems.
+    Telugu Def      : ఒక సంస్థ దాని సమాచారాన్ని, వ్యవస్థను ఎలా కాపాడిందో నిర్వచిస్తుంది.
+
+[44] Incident Response -> గుర్తించబడిన స్పందన
+    Raw Model Output: గుర్తించబడిన స్పందన
+    English Def     : The process of detecting, analyzing, containing, and recovering from cybersecurity incidents.
+    Telugu Def      : ఆక్యుపంక్చర్‌లో సూక్ష్మక్రిములు ఉండడం, పరీక్ష చేయడం, చికిత్స చేయడం వంటివి ఇమిడి ఉన్నాయి.
+
+[45] Digital Forensics -> డిజిటల్ ఫోరెన్స్
+    Raw Model Output: డిజిటల్ ఫోరెన్స్GenericName
+    English Def     : The process of collecting, preserving, and analyzing digital evidence for investigation.
+    Telugu Def      : మీ పరిశోధన ఎలా జరుగుతోందో తెలుసుకోండి.
+
+[46] Security Audit -> భద్రతా ఆడిట్
+    Raw Model Output: భద్రతా ఆడిట్
+    English Def     : A systematic examination of security controls, configurations, policies, and practices.
+    Telugu Def      : భద్రతా నియంత్రణలను, ఆకృతులను, విధానాలను, ఆచారాలను ఒక క్రమపద్ధతిగా పరీక్షించడం.
+
+[47] Penetration Testing -> పెన్సిల్‌ టెస్టింగ్‌
+    Raw Model Output: పెన్సిల్‌ టెస్టింగ్‌
+    English Def     : Authorized security testing performed to identify and demonstrate exploitable weaknesses in systems or applications.
+    Telugu Def      : వ్యవస్థల లేదా అనువర్తనములలోని లాభసాధన బలహీనతలను గుర్తించడానికి, ప్రదర్శించేందుకు ధ్రువీకరించబడిన భద్రతా పరీక్షలు నిర్వహించబడ్డాయి.
+
+[48] Personally Identifiable Information -> వ్యక్తిగత డిజిటల్ సమాచారం
+    Raw Model Output: వ్యక్తిగత డిజిటల్ సమాచారం
+    English Def     : Information that can be used alone or with other information to identify a specific person.
+    Telugu Def      : ఒక నిర్దిష్ట వ్యక్తిని గుర్తించేందుకు ఒంటరిగా లేదా ఇతర సమాచారాన్ని ఉపయోగించవచ్చు.
+
+[49] Social Engineering -> సామాజిక ఇంజనీరింగ్‌
+    Raw Model Output: సామాజిక ఇంజనీరింగ్‌
+    English Def     : The use of psychological manipulation or deception to influence people into revealing information or performing actions.
+    Telugu Def      : ప్రజల మనసులను స్పృశించే పద్ధతిలో లేదా మోసం ద్వారా సమాచారాన్ని వెల్లడిచేసేలా లేదా క్రియల్లో ప్రవర్తించేలా వారిని ప్రభావితం చేయవచ్చు.
+
+[50] Threat -> మినహాయింపు
+    Raw Model Output: మినహాయింపు
+    English Def     : A circumstance or event that could potentially harm an information system, organization, or data.
+    Telugu Def      : ఏదైనా సమాచారం వ్యవస్థకు, సంస్థకు లేదా సమాచారానికి హాని చేసే అవకాశం ఉంది.
+
+[51] Risk -> ప్రమాదం
+    Raw Model Output: ప్రమాదం
+    English Def     : The possibility of loss or harm resulting from a threat exploiting a vulnerability.
+    Telugu Def      : నిస్పృహకు గురికాగల ప్రమాదం వల్ల నష్టపోయే అవకాశం లేదా హాని కలగవచ్చు.
+
+[52] Security Incident -> భద్రతా భావం
+    Raw Model Output: భద్రతా భావం
+    English Def     : An event that may compromise the confidentiality, integrity, or availability of information or systems.
+    Telugu Def      : ఆంతరంగిక విషయాన్ని, యథార్థతను లేదా సమాచారాన్ని లేదా వ్యవస్థలను రాజీ పడేయగల సంఘటన.
+
+[53] Endpoint Security -> ముగింపు పాయింట్ భద్రత
+    Raw Model Output: ముగింపు పాయింట్ భద్రత
+    English Def     : Protection of devices such as computers, smartphones, and servers that connect to a network.
+    Telugu Def      : నెట్‌వర్క్‌తో అనుసంధానం చేసే కంప్యూటర్‌, స్మార్ట్‌ ఫోన్‌లు, సెర్వర్ల వంటి పరికరాల రక్షణ.
+
+[54] Cloud Security -> మేఘ భద్రత
+    Raw Model Output: మేఘ భద్రత
+    English Def     : Policies, technologies, and controls used to protect cloud-based systems, applications, and data.
+    Telugu Def      : విధానాలు, సాంకేతికశాస్త్రం, మరియు నియంత్రణలు మేఘ ఆధారిత వ్యవస్థలను, అనువర్తనములను మరియు డాటాను రక్షించుటకు ఉపయోగించబడతాయి.
+
+[55] Zero Trust -> జీరో విశ్వసనీయత
+    Raw Model Output: జీరో విశ్వసనీయత
+    English Def     : A security approach that continuously verifies users, devices, and access requests rather than automatically trusting them.
+    Telugu Def      : ఇంటెన్సివ్‌ ఫెయిత్‌ ఇన్‌స్టిట్యూట్‌ ప్రోత్సహించేది అనుసారంగా ఉపయోగించే వినియోగాలు, పరికరాలు, యాక్సెస్‌ చేసేవి.
+
+[56] Security Monitoring -> భద్రత మానిటర్
+    Raw Model Output: భద్రత మానిటర్
+    English Def     : The continuous observation of systems, networks, and events to identify suspicious or malicious activity.
+    Telugu Def      : అనుమానాస్పదమైన లేదా దురుద్దేశమైన కార్యకలాపాలను గుర్తించేందుకు వ్యవస్థలు, నెట్‌వర్క్‌లు లేదా సంఘటనలను పదేపదే గమనించడం జరుగుతుంది.
+
